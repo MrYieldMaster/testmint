@@ -5,7 +5,7 @@ const ButtonWrapper = styled.button`
   width: 150px;
   display: flex;
   justify-content: center;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: rgba(221,25,9,255);
   color: #ffffff;
   align-items: center;
   font-family: "Bakbak One";
@@ -56,7 +56,7 @@ const ButtonWrapper = styled.button`
     &::before {
       width: 100%;
       height: 100%;
-      background-color: rgba(255, 255, 255, 0.35);
+      background-color: rgba(221,25,9,255);
     }
   }
 
@@ -90,31 +90,31 @@ const ButtonWrapper = styled.button`
     ${({ variant }) =>
     variant === "outline" &&
     css`
-      border: 2px solid rgba(255, 255, 255, 0.2);
+      border: 2px solid rgba(221,25,9,255);
       color: #ffffff;
 
       &:hover {
         &::before {
-          background: rgba(255, 255, 255, 0.2);
+          background: rgba(221,25,9,255);
         }
       }
     `} 
     ${({ variant }) =>
     variant === "hovered" &&
     css`
-      background: rgba(255, 255, 255, 0.35);
+      background: rgba(221,25,9,255);
       color: #ffffff;
 
       &:hover {
         &::before {
-          background: rgba(255, 255, 255, 0.2);
+          background: rgba(221,25,9,255);
         }
       }
     `} 
     ${({ variant }) =>
     variant === "mint" &&
     css`
-      background: #00ffa3;
+      background: #dd1909;
       color: #111111;
       border: none;
       .hover-shape {
@@ -132,14 +132,14 @@ const ButtonWrapper = styled.button`
 
       &:hover {
         &::before {
-          background: #00eb96;
+          background: #dd1909;
         }
       }
     `} 
     ${({ variant }) =>
     variant === "blue" &&
     css`
-      background: #5865f2;
+      background: #dd1909;
       color: #ffffff;
       border: none;
 

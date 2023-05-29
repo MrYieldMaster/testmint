@@ -17,11 +17,15 @@ const data = [
   },
   {
     title: "Articles",
-    url: "#",
+    url: "https://medium.com/@butanegas101",
+    newWindow: true,
+
   },
   {
     title: "Terms of Service",
-    url: "#",
+    url: "https://butane.tech/terms-of-service/",
+    newWindow: true,
+    
   },
 ];
 

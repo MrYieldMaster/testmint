@@ -46,7 +46,7 @@ const Banner = () => {
         <div className="bithu_v2_baner_content">
           <h2>
             {" "}
-            <span className="banner-emot">🎉</span>Public Sale{" "}
+            <span className="banner-emot"></span>Public Sale{" "}
             <span>Live !</span>
           </h2>
           <h3>
