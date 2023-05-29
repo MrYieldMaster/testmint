@@ -32,7 +32,6 @@ export default function HomeV2() {
       <CharacterSlider />
       <About />
       <RoadMap />
-      <Team />
       <FAQ />
       <Partner />
       <Footer />

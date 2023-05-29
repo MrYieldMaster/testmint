@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
         <meta charSet="utf-8" />
         <title>
           {" "}
-          Bithu - NFT Minting/Collection Landing Page react-next js Template
+          Butane- NFT Minting
         </title>
         <meta name="description" content="" />
         <link rel="shortcut icon" type="image/x-icon" href={favIcon.src} />

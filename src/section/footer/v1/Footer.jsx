@@ -39,7 +39,7 @@ const Footer = () => {
                     </Link>
                   </div>
                   <div className="copiright_text">
-                    <p>Copyright © 2022 Bithu</p>
+                    <p>Copyright © 2023 Butane Network</p>
                   </div>
                 </div>
                 <Link href="# ">

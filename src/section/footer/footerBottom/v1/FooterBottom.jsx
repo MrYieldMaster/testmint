@@ -31,7 +31,7 @@ const FooterBottom = () => {
             </ul>
           </div>
           <div className="v2_footer_copiright_text">
-            <p>Copyright ©2022 Bithu, All rights reserved.</p>
+            <p>Copyright ©2023 Butane Network, All rights reserved.</p>
           </div>
           <Link href="# ">
             <a className="bact_to_top_btn">
