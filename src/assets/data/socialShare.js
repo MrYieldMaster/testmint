@@ -14,11 +14,11 @@ import mediumIcon from "assets/images/icon/med.svg";
 const data = [
   {
     thumb: openseaIcon,
-    url: "#",
+    url: "https://opensea.io/collection/butanedao",
   },
   {
     icon: <FaTwitter />,
-    url: "#",
+    url: "https://twitter.com/Butane_Network",
   },
   {
     icon: <FaLinkedinIn />,
@@ -34,15 +34,15 @@ const data = [
   },
   {
     icon: <FaTelegramPlane />,
-    url: "#",
+    url: "https://t.me/butanechain",
   },
   {
     thumb: mediumIcon,
-    url: "#",
+    url: "https://medium.com/@butanegas101",
   },
   {
     icon: <FaEnvelope />,
-    url: "#",
+    url: "team@butane.tech",
   },
   {
     icon: <FaCopy />,

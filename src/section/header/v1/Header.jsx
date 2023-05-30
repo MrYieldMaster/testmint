@@ -77,8 +77,11 @@ const Header = () => {
                   <MdNotes />
                 </button>
                 <Button sm variant="outline" className="join_btn">
+                <a href="https://discord.gg/zk4t92b9MX" target="_blank" rel="noopener noreferrer">
                   <FaDiscord /> Join
+                  </a>
                 </Button>
+                
                 <ConnectButton
                   label="Connect"
                   chainStatus="none"//icon,name,none

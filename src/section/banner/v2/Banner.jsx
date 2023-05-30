@@ -67,7 +67,7 @@ const Banner = () => {
             </Button>
           </div>
 
-          <Particle className="v2_baner_stars" particles={data} />
+          
         </div>
       </div>
     </BannerStyleWrapper>

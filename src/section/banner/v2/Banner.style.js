@@ -2,7 +2,7 @@ import styled from "styled-components";
 import bannerBg from "assets/images/nft/v2_banner_bG.png";
 
 const BannerStyleWrapper = styled.section`
-  background: url(${bannerBg.src});
+  background: black;
   width: 100%;
   background-size: cover;
   background-position: top center;

@@ -1,6 +1,6 @@
 const data = [
   {
-    category: "NFT Presel",
+    category: "NFT Presell",
     items: [
       {
         title: "How we can buy and invest NFT ?",

@@ -40,7 +40,7 @@ const CTA = () => {
                   Whitelist Now
                 </Button>
                 <Button lg variant="blue" className="join_discord_btn">
-                  {" "}
+                  {"https://discord.gg/zk4t92b9MX "}
                   <FaDiscord /> Join Discord
                 </Button>
               </div>

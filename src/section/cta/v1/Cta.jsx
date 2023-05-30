@@ -36,11 +36,14 @@ const CTA = () => {
         <div className="bithu_v1_cta_content">
           <div className="join_comunity_btns">
             <Button lg variant="mint" className="wishlist_btn">
+            <a href="https://discord.gg/zk4t92b9MX" target="_blank" rel="noopener noreferrer">
               Whitelist Now
+              </a>
             </Button>
             <Button lg variant="blue" className="join_discord_btn">
-              {" "}
+            <a href="https://discord.gg/zk4t92b9MX" target="_blank" rel="noopener noreferrer">
               <FaDiscord /> Join Discord
+              </a>
             </Button>
           </div>
           <div className="cta_social_links">
